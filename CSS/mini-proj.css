@@ -8,6 +8,9 @@
     -o-box-sizing:border-box;
     font-family: avalon;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     overflow-x: hidden;
 }
